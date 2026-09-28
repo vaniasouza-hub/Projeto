@@ -2,9 +2,6 @@
 
 O projeto **Consumo de Energia** foi criado para calcular e auxiliar no acompanhamento de gastos com energia.
 
-## 📐 Fórmula Utilizada para o Cálculo
- **Consumo (kWh)** = (Potência do aparelho em Watts × Horas de uso por dia) ÷ 1000
-2. **Custo Mensal (R$)** = Consumo (kWh) × 30 dias × Valor da tarifa
 
 ---
 
